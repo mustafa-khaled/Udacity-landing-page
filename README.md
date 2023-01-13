@@ -1,1 +1,1 @@
-# Safi200-Udacity-Landing-Page
+# Udacity-Landing-Page
